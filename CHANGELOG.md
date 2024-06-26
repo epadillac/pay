@@ -2,6 +2,10 @@
 
 ### Unreleased
 
+### 7.2.1.1
+
+* Added custom payment processor support for Gift Cards - @epadillac
+
 ### 7.2.1
 
 * Use empty string to resume / unpause Stripe subscriptions. #992
